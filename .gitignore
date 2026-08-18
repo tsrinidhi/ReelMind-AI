@@ -5,9 +5,8 @@ __pycache__/
 *.pyc
 
 # Environment files
-.env
-.env.local
-.env.*.local
+# Allowing .env to push to github for hackathon
+
 
 # Vercel
 .vercel/
